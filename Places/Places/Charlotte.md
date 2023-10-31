@@ -16,7 +16,6 @@ Description:
 * Great sandwiches and solid kitchen in general
 -----------
 
-
 ---------------------
 ### [Stable Hand](https://maps.app.goo.gl/WW4bvDnDhGGYKoC29)
 ⭐⭐⭐
@@ -26,13 +25,6 @@ Description:
 * Great place for a walk afterwords on the South End rail trail
 
 -----------
-
-
-
-
-
-
-
 ## Treats
 
 ## Restaurants
