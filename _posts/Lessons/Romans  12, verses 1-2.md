@@ -1,3 +1,4 @@
+#bible_study #lesson 
 
 **What makes a good best friend?**
 

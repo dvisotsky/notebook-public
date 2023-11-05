@@ -1,3 +1,5 @@
+#bible_study #lesson 
+
 https://www.youtube.com/watch?v=8KkKuTCFvzI
 
 **Goal**: Unity within the youth. Less cliques and more inclusion.

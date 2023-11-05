@@ -1,5 +1,5 @@
 **Introduction**
-
+#bible_study #lesson 
 Board game Go
 
 Earliest records are from the 4th Century BC; it was being played in China at the same time as Jesus was preaching in the Middle East.

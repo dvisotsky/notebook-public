@@ -1,3 +1,5 @@
+#lesson #bible_study #Jonah 
+
 ## Quick Recap
 Jonah was a prophet.
 Assigned by God to preach to Nineveh and encourage it to repent.
