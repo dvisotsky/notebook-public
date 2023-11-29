@@ -5,21 +5,26 @@ Matthew was a tax collector
 - was a disciple of Jesus himself
 - he starts his book with a genealogy, why?
 	- doesn't he know that we usually skip those?
-
+ 
 ## First thoughts:
+**Q: does anything stand out to you?**
 - Organized in 3 groups of 14.
+	- Abraham - the origin of Israel as a nation
+	- David - the Kingdom era of Israel
+	- Exile - when there were no Israelite rulers over Israel and the nation was conquered
+	 - 14 because the numeric value of the Hebrew letters to spell "David" add up to 14
+		  - ד ו ד, dalet + waw + dalet, 4+6+4 = 14
 - Important figures include Abraham, Ruth, David, Solomon
 - not all men
 	- Tamar: 
-	 - Rahab: Prostitute from Jericho that save the Israelite Spies
-	 - Ruth: Moabite, Gentile, widow and daughter-in-law of a widow
+	 - Rahab: 
+	 - Ruth: 
 	 - Bathsheba: adulteress, wife of a Hitite (Also a Gentile)
- 
 - Joseph was not related by blood to Jesus
 	- This is a legal lineage instead to back up Jesus' claim to be the Messiah
-
 ## Abraham's 7
-Who is Abraham? *The father of Judaism*
+- shows that Jesus is connected to the origin of Israel as a nation
+Who is Abraham? *The father of Israel*
 - God promised Abraham that "... all the nations of the earth shall be blessed in him" (Genesis 22:18)
 	- Jesus is the manifestation of that blessing
 - Through Abraham God shows that his promises are never void, even 2000 years later.
@@ -29,15 +34,17 @@ Who is Abraham? *The father of Judaism*
 		 - Judah said that she was "more righteous than I"
 - **Rahab**
 	- A Gentile living in Jericho at the time of the Israelite conquest 
-   
-
-
+ - **Ruth**
+	 - Moabite, prohibited from joining Israel (Deuteronomy 23:3)
+	 - widow and daughter-in-law of a widow
 ## David's 7
-- David was the youngest son of Jesse
-- 
-
-
+- Shows that Jesus is of a royal line
+- David was the youngest son of Jesse but became one of the greatest kings of Israel, only comparable to his son
+- **The wife of uriah** (Bathsheba)
+	- Wife of a Hitite
+	- Adulteress
 ## Exile's 7
-"like a root out of dry ground"
+- It's impressive that these names are here at all, Israel had been upturned and conquered by Babylon
+- 
 
 
