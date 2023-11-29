@@ -23,10 +23,9 @@ Matthew was a tax collector
 - Joseph was not related by blood to Jesus
 	- This is a legal lineage instead to back up Jesus' claim to be the Messiah
 ## Abraham's 7
-- shows that Jesus is connected to the origin of Israel as a nation
+**Q: Why start with Abraham?**
 Who is Abraham? *The father of Israel*
-- God promised Abraham that "... all the nations of the earth shall be blessed in him" (Genesis 22:18)
-	- Jesus is the manifestation of that blessing
+- God promised Abraham that "... all the nations of the earth shall be blessed in him" (Genesis 22:18) - Jesus is the manifestation of that blessing
 - Through Abraham God shows that his promises are never void, even 2000 years later.
 * **Tamar**
 	* Sold herself as a prostitute to her father-in-law Judah to have children (Genesis 38)
@@ -37,6 +36,8 @@ Who is Abraham? *The father of Israel*
  - **Ruth**
 	 - Moabite, prohibited from joining Israel (Deuteronomy 23:3)
 	 - widow and daughter-in-law of a widow
+  **Q: why include the women of questionable reputation?**
+  - It could have been Sarah, Rachel, Rebecca
 ## David's 7
 - Shows that Jesus is of a royal line
 - David was the youngest son of Jesse but became one of the greatest kings of Israel, only comparable to his son
@@ -45,6 +46,12 @@ Who is Abraham? *The father of Israel*
 	- Adulteress
 ## Exile's 7
 - It's impressive that these names are here at all, Israel had been upturned and conquered by Babylon
-- 
+- Isaiah 53:2-3
+	- He grew up before him like a tender shoot, and like a root out of dry ground. He had no beauty or majesty to attract us to him, nothing in his appearance that we should desire him.
 
-
+## Conclusion
+**Jesus:**
+	- an Israelite and can be traced back to Abraham
+	- is royalty and is a descendant of David
+	- will not align with the Messiah that the people thought he would be
+ 
