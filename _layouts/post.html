@@ -1,0 +1,30 @@
+<!-- _layouts/post.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+
+    <!-- Include your custom CSS for the Nord theme -->
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/nord-theme.css' | relative_url }}"
+    />
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+
+    <!-- Include any additional CSS or resources here -->
+  </head>
+  <body>
+    <!-- Main content -->
+    <main>
+      <h1>{{ page.title }}</h1>
+      <article>
+        <div class="content">{{ content }}</div>
+      </article>
+    </main>
+
+    <!-- Your site's footer -->
+  </body>
+</html>
